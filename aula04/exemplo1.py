@@ -54,13 +54,13 @@
 #-------------------------------------------------------------------------------------------------------------------------------------------------------#
 #Aprovação (Nota/Frequência)
 
-nota = float(input("Informe sua nota:"))
-frequencia = float(input("Informe sua frequência:"))
+# nota = float(input("Informe sua nota:"))
+# frequencia = float(input("Informe sua frequência:"))
 
-if nota >= 7:
-    if frequencia >= 75:
-        print("Aprovado(a)!")
-    else:
-        print("Boa nota, porém está reprovado(a) por falta.")
-else:
-    print("Reprovado (a) por nota.")
+# if nota >= 7:
+#     if frequencia >= 75:
+#         print("Aprovado(a)!")
+#     else:
+#         print("Boa nota, porém está reprovado(a) por falta.")
+# else:
+#     print("Reprovado (a) por nota.")
